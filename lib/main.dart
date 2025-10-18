@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:task5/widget/login_page.dart';
 import 'package:task5/widget/onboarding_page.dart';
-//import 'package:task5/onlinepayment_page.dart';
 import 'package:task5/widget/signUp_page.dart';
 import 'package:task5/widget/splash_screen.dart';
 
