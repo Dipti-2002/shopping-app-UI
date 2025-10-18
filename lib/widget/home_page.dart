@@ -3,12 +3,9 @@ import 'package:flutter/material.dart';
 import 'package:task5/widget/bottom_navigatio.dart';
 
 class HomePage extends StatelessWidget {
-  //  final String label;
-  // final Widget icon;
   const HomePage({
     super.key,
-    // required this.label,
-    // required this.icon,
+   
   });
 
   @override
