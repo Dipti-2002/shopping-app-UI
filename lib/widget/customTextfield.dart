@@ -53,14 +53,4 @@ class Customtextfield extends StatelessWidget{
   }
 }
  
-  //         decoration: InputDecoration(
-  //           labelText: label,
-  //           border: const OutlineInputBorder(
-  //             borderRadius: BorderRadius.all(Radius.circular(10)),
-  //           ),
-  //           suffixIcon:  Icon(icon),
-  //         ),
-  //       ),
-  //     ),
-  //   );
-  // }
+ 
